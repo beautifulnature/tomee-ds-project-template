@@ -29,7 +29,7 @@
     <properties>
         <myfaces-core.version>2.1.13</myfaces-core.version>
         <tomee-api.version>6.0-5</tomee-api.version>
-        <ds.version>1.0.0</ds.version>
+        <ds.version>1.0.1</ds.version>
     </properties>
 
     <build>
